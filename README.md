@@ -32,8 +32,8 @@ The focus is on setting up roles, departments, SLAs, and workflows that reflect 
 - End-User URL: `http://localhost/osTicket`  
 - Acknowledged difference between the Agent Panel (staff workflows) and Admin Panel (system configuration).  
 
-<p><img src="images/post-step1a.png" width="80%" alt="Admin Login (placeholder)"/></p>  
-<p><img src="images/post-step1b.png" width="80%" alt="End-User Portal (placeholder)"/></p>  
+<p><img src="images/STEP1.png" width="80%" alt="Admin Login (placeholder)"/></p>  
+<p><img src="images/STEP1.2.png" width="80%" alt="End-User Portal (placeholder)"/></p>  
 <br />
 
 ### 2) Configure Roles & Departments
