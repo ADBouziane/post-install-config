@@ -9,7 +9,7 @@ The focus is on setting up roles, departments, SLAs, and workflows that reflect 
 ---
 
 ## Video Demonstration
-- [YouTube: osTicket Post-Installation Configuration](https://www.youtube.com)
+- [YouTube: osTicket Post-Installation Configuration](https://www.youtube/watch?v=E1NmHtJvwP4)
 
 ---
 
