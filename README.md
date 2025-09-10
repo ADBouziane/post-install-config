@@ -52,13 +52,13 @@ The focus is on setting up roles, departments, SLAs, and workflows that reflect 
 <br />
 
 ### 4) Configure Agents and Users
-- Added Jane (Dept: SysAdmins, Role: Supreme Admin, Team: Online Banking).  
-- Added John (Dept: Support, standard role).  
-- Added Karen as an example end-user.  
+- Added Joe (Dept: SysAdmins, Role: Supreme Admin, Team: Online Banking).  
+- Added Sam (Dept: Support, standard role).  
+- Added Lisa as an example end-user.  
 
-<p><img src="images/post-step4a.png" width="80%" alt="Jane Agent (placeholder)"/></p>  
-<p><img src="images/post-step4b.png" width="80%" alt="John Agent (placeholder)"/></p>  
-<p><img src="images/post-step4c.png" width="80%" alt="Karen User (placeholder)"/></p>  
+<p><img src="images/post-step4a.png" width="80%" alt="Joe Agent (placeholder)"/></p>  
+<p><img src="images/post-step4b.png" width="80%" alt="Sam Agent (placeholder)"/></p>  
+<p><img src="images/post-step4c.png" width="80%" alt="Lisa User (placeholder)"/></p>  
 <br />
 
 ### 5) Configure SLA Plans
@@ -78,7 +78,8 @@ The focus is on setting up roles, departments, SLAs, and workflows that reflect 
   - Password Reset  
   - Other  
 
-<p><img src="images/post-step6.png" width="80%" alt="Help Topics (placeholder)"/></p>  
+<p><img src="images/post-STEP6.1.png" width="80%" alt="Help Topics (placeholder)"/></p>  
+<p><img src="images/post-STEP6.png" width="80%" alt="Help Topics (placeholder)"/></p>
 <br />
 
 ---
