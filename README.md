@@ -32,23 +32,23 @@ The focus is on setting up roles, departments, SLAs, and workflows that reflect 
 - End-User URL: `http://localhost/osTicket`  
 - Acknowledged difference between the Agent Panel (staff workflows) and Admin Panel (system configuration).  
 
-<p><img src="images/STEP1.png" width="80%" alt="Admin Login (placeholder)"/></p>  
-<p><img src="images/STEP1.2.png" width="80%" alt="End-User Portal (placeholder)"/></p>  
+<p><img src="images/STEP1.PNG" width="80%" alt="Admin Login (placeholder)"/></p>  
+<p><img src="images/STEP1.2.PNG" width="80%" alt="End-User Portal (placeholder)"/></p>  
 <br />
 
 ### 2) Configure Roles & Departments
 - Created custom role “Supreme Admin” with full permissions.  
 - Configured a new department: “SysAdmins” for restricted ticket visibility.  
 
-<p><img src="images/post-step2a.png" width="80%" alt="Supreme Admin Role (placeholder)"/></p>  
-<p><img src="images/post-step2b.png" width="80%" alt="SysAdmins Department (placeholder)"/></p>  
+<p><img src="images/STEP2.2.PNG" width="80%" alt="Supreme Admin Role (placeholder)"/></p>  
+<p><img src="images/STEP2.PNG" width="80%" alt="SysAdmins Department (placeholder)"/></p>  
 <br />
 
 ### 3) Configure Teams
 - Created “Online Banking” team by pulling agents across departments.  
 - Demonstrates cross-department collaboration.  
 
-<p><img src="images/post-step3.png" width="80%" alt="Online Banking Team (placeholder)"/></p>  
+<p><img src="images/STEP3.PNG" width="80%" alt="Online Banking Team (placeholder)"/></p>  
 <br />
 
 ### 4) Configure Agents and Users
@@ -56,9 +56,9 @@ The focus is on setting up roles, departments, SLAs, and workflows that reflect 
 - Added Sam (Dept: Support, standard role).  
 - Added Lisa as an example end-user.  
 
-<p><img src="images/post-step4a.png" width="80%" alt="Joe Agent (placeholder)"/></p>  
-<p><img src="images/post-step4b.png" width="80%" alt="Sam Agent (placeholder)"/></p>  
-<p><img src="images/post-step4c.png" width="80%" alt="Lisa User (placeholder)"/></p>  
+<p><img src="images/STEP4JOE.PNG" width="80%" alt="Joe Agent (placeholder)"/></p>  
+<p><img src="images/STEP4SAM.PNG" width="80%" alt="Sam Agent (placeholder)"/></p>  
+<p><img src="images/STEP4LISA.PNG" width="80%" alt="Lisa User (placeholder)"/></p>  
 <br />
 
 ### 5) Configure SLA Plans
@@ -67,7 +67,7 @@ The focus is on setting up roles, departments, SLAs, and workflows that reflect 
   - Sev-B (4 hours, 24/7)  
   - Sev-C (8 hours, business hours)  
 
-<p><img src="images/post-step5.png" width="80%" alt="SLA Plans (placeholder)"/></p>  
+<p><img src="images/STEP5.PNG" width="80%" alt="SLA Plans (placeholder)"/></p>  
 <br />
 
 ### 6) Configure Help Topics
@@ -78,8 +78,8 @@ The focus is on setting up roles, departments, SLAs, and workflows that reflect 
   - Password Reset  
   - Other  
 
-<p><img src="images/post-STEP6.1.png" width="80%" alt="Help Topics (placeholder)"/></p>  
-<p><img src="images/post-STEP6.png" width="80%" alt="Help Topics (placeholder)"/></p>
+<p><img src="images/STEP6.1.PNG" width="80%" alt="Help Topics (placeholder)"/></p>  
+<p><img src="images/STEP6.PNG" width="80%" alt="Help Topics (placeholder)"/></p>
 <br />
 
 ---
